@@ -6,7 +6,7 @@ import time
 import os
 # from discord_buttons_plugin import *
 
-token = 'OTQwNDY0Mjg0MjAxMjgzNjA1.YgHxng.B13JtECoSMNmGeC_L5tHkE9D-Ks'
+token = 
 
 bot = commands.Bot(command_prefix="?!", intents=discord.Intents.all())
 
