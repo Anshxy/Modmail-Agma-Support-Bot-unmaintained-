@@ -8,7 +8,7 @@ from googletrans import Translator #Version: googletrans==3.1.0a0
 # from discord_buttons_plugin import *
 
 
-token = ''
+token = 'OTQwNDY0Mjg0MjAxMjgzNjA1.GTcOQ_.Ga390kt5bHUd_2SaKjL39grcWWTPjl1HnAsims'
 
 bot = commands.Bot(command_prefix="?!", intents=discord.Intents.all())
 
