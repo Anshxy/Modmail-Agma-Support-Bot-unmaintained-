@@ -306,10 +306,15 @@ We have been advising such people to just start a new account, and do it right t
                     print(e)
                     print("2")
                     await ctx.add_reaction('❌')
-
+		
+        
         await bot.process_commands(ctx)
 
 
+        
+        
+        
+        
 @bot.command(name="m")
 async def messagea(ctx, *, text):
     channel_name = ctx.channel.name.split('-')
@@ -449,7 +454,7 @@ async def closed(ctx):
         print("Channel closed")
     except Exception as e:
         await ctx.channel.send(e)
-        await ctx.channel.send("Error code FORBIDDEN 403")
+        await ctx.channel.send("Error code FORBIDDEN")
 
 
     @bot.command()
