@@ -1,4 +1,5 @@
 # Modmail-Agma-Support-Bot
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 ## ⚠️ This repo is Outdated and unmaintained! New version Available: [https://github.com/Anshxy/ModmailSupport2.0]
 
 ## Source code for the Agma.io Modmail Discord Support Bot
